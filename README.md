@@ -1,5 +1,5 @@
-# Must-read Papers on Point Process (PP)
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red)
+# Must-read Papers on Temporal Point Process (TPP)
+![](https://img.shields.io/badge/PRs-Welcome-red)
 
 Mainly Contributed by Chenghao Yang, Hongyuan Mei and Jason Eisner.
 
