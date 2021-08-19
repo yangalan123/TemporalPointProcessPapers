@@ -40,7 +40,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### 2.2 Neural-Symbolic Methods
 1. **Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification**. *Hongyuan Mei, Guanghui Qin, Minjie Xu, Jason Eisner*. ICML 2020. [[pdf](https://arxiv.org/pdf/2006.16723.pdf)] [[code](https://github.com/HMEIatJHU/neural-datalog-through-time)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.talk.pdf)]
-1. **Temporal Logic Point Processes**。 *Shuang Li, Lu Wang, Ruizhi Zhang, Xiaofu Chang, Xuqin Liu, Yao Xie, Yuan Qi, Le Song*. ICML 2020. [[pdf](http://proceedings.mlr.press/v119/li20p/li20p.pdf)] [[slideslive](https://slideslive.com/38922890/temporal-logic-point-processes)]
+1. **Temporal Logic Point Processes**. *Shuang Li, Lu Wang, Ruizhi Zhang, Xiaofu Chang, Xuqin Liu, Yao Xie, Yuan Qi, Le Song*. ICML 2020. [[pdf](http://proceedings.mlr.press/v119/li20p/li20p.pdf)] [[slideslive](https://slideslive.com/38922890/temporal-logic-point-processes)]
 
 ## 3. Algorithm Papers
 1. **Noise-Contrastive Estimation for Multivariate Point Processes**. *Hongyuan Mei, Tom Wan, Jason Eisner*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.00717.pdf)] [[code](https://github.com/HMEIatJHU/nce-mpp)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+wan+eisner.neurips20.talk.pdf)]
