@@ -13,6 +13,17 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [2.2 Structured Hawkes Process Modeling](#22-structured-hawkes-process-modeling)
 * [3. Algorithm Papers](#3-algorithm-papers)
 * [4. Application Papers](#4-application-papers)
+    * [4.1 Social Media](#41-social-media)
+    * [4.2 Clinical Health](#42-clinical-health)
+    * [4.3 E-commerce](#43-e-commerce)
+    * [4.4 Causality Discovery](#44-causality-discovery)
+    * [4.5 Audio Processing](#45-audio-processing)
+    * [4.6 Natural Language Processing](#46-natural-language-processing)
+    * [4.7 Computer Vision](#47-computer-vision)
+    * [4.8 Anomaly Detection](#48-anomaly-detection)
+    * [4.9 Network Structure Discovery](#49-network-structure-discovery)
+    * [4.10 Science](#410-science)
+    * [4.11 Other Applications](#411-other-applications)
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
@@ -67,35 +78,64 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning**. *Junchi Yan, Xin Liu, Liangliang Shi, Changsheng Li, Hongyuan Zha*. IJCAI 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0409.pdf)]
 
 ## 4. Application Papers
+
+### 4.1 Social Media
 1. **Identifying Coordinated Accounts on Social Media through Hidden Influence and Group Behaviours**. *Karishma Sharma, Yizhou Zhang, Emilio Ferrara, Yan Liu*. KDD 2021. [[pdf](https://arxiv.org/pdf/2008.11308.pdf)] [[code](https://github.com/USC-Melady/AMDN-HAGE-KDD21)]
+1. **COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution**. *Mehrdad Farajtabar, Yichen Wang, Manuel Gomez Rodriguez, Shuang Li, Hongyuan Zha, Le Song*. JMLR 2017. [[pdf](https://www.jmlr.org/papers/volume18/16-132/16-132.pdf)] [[code](https://github.com/Networks-Learning/Coevolution)]
+1. **DeepHawkes: Bridging the Gap between Prediction and Understanding of Information Cascades**. *Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, Xueqi Cheng*. CIKM 2017. [[pdf](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-cao.pdf)] [[code](https://github.com/CaoQi92/DeepHawkes)]
+1. **The Bayesian Echo Chamber: Modeling Social Influence via Linguistic Accommodation**. *Fangjian Guo, Charles Blundell, Hanna Wallach, Katherine Heller*. AISTATS 2015. [[pdf](https://arxiv.org/pdf/1411.2674)]
+1. **Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, Le Song*. AISTATS 2013. [[pdf](http://proceedings.mlr.press/v31/zhou13a.pdf)]
+### 4.2 Clinical Health
 1. **Personalized Dynamic Treatment Regimes in Continuous Time: A Bayesian Joint Model for Optimizing Clinical Decisions with Timing**. *William Hua, Hongyuan Mei, Sarah Zohar, Magali Giral, Yanxun Xu*. Bayesian Analysis (2021). [[pdf](https://arxiv.org/pdf/2007.04155.pdf)] [[code](https://github.com/YanxunXu/doct)]
-1. **CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods**. *Wei Zhang, Thomas Kobber Panum, Somesh Jha, Prasad Chalasani, David Page*. ICML 2020. [[pdf](https://arxiv.org/pdf/2002.07906.pdf)] [[slideslive](https://slideslive.com/s/prasad-chalasani-30427)] [[code & data](https://github.com/razhangwei/CAUSE)]
 1. **Neural Temporal Point Processes For Modelling Electronic Health Records**. *Joseph Enguehard, Dan Busbridge, Adam Bozson, Claire Woodcock, Nils Hammerla*. Machine Learning for Health 2020. [[pdf](http://proceedings.mlr.press/v136/enguehard20a/enguehard20a.pdf)] [[code](https://github.com/babylonhealth/neuralTPPs)]
-1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, and
-Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
+1. **Constructing Disease Network and Temporal Progression Model via Context-sensitive Hawkes Process**. *Edward Choi, Nan Du, Robert Chen, Le Song, Jimeng Sun*. ICDM 2015. [[pdf](https://ieeexplore.ieee.org/document/7373379)]
+### 4.3 E-commerce
 1. **Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions**. *Bjørnar Vassøy, Massimiliano Ruocco, Eliezer de Souza da Silva, Erlend Aune*. WSDM 2019. [[pdf](https://arxiv.org/pdf/1812.01276.pdf)] [[code](https://github.com/BjornarVass/Recsys)]
 1. **Intermittent Demand Forecasting with Deep Renewal Processes**. *Ali Caner Turkmen, Yuyang Wang, Tim Januschowski*. TPP@NeurIPS 2019. [[pdf](https://arxiv.org/pdf/1911.10416.pdf)]
-1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks**. *Srijan Kumar, Xikun Zhang, and Jure Leskovec.* KDD 2019. [[pdf](https://arxiv.org/pdf/1908.01207.pdf)]
-1. **Recurrent Poisson Process Unit for Speech Recognition**. *Hengguan Huang, Hao Wang, Brian Mak*. AAAI 2019. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4620/4498)]
-1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
-1. **Egocentric Activity Prediction via Event Modulated Attention**. *Yang Shen, Bingbing Ni, Zefan Li, Ning Zhuang*. ECCV 2018. [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)]
 1. **Recurrent Spatio-Temporal Point Process for Check-in Time Prediction**. *Guolei Yang, Ying Cai, Chandan K. Reddy*. CIKM 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3269206.3272003)]
-1. **DeepHawkes: Bridging the Gap between Prediction and Understanding of Information Cascades**. *Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, Xueqi Cheng*. CIKM 2017. [[pdf](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-cao.pdf)] [[code](https://github.com/CaoQi92/DeepHawkes)]
-1. **COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution**. *Mehrdad Farajtabar, Yichen Wang, Manuel Gomez Rodriguez, Shuang Li, Hongyuan Zha, Le Song*. JMLR 2017. [[pdf](https://www.jmlr.org/papers/volume18/16-132/16-132.pdf)] [[code](https://github.com/Networks-Learning/Coevolution)]
-1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
-1. **Graphical Modeling for Multivariate Hawkes Processes with Nonparametric Link Functions**. *Michael Eichler, Rainer Dahlhaus, Johannes Dueck*. Journal of Time Series Analysis 2017. [[pdf](https://arxiv.org/pdf/1605.06759.pdf)]
-1. **Uncovering Causality from Multivariate Hawkes Integrated Cumulants**. *Massil Achab, Emmanuel Bacry, Stéphane Gaïffas, Iacopo Mastromatteo, Jean-Francois Muzy*. ICML 2017. [[pdf](https://arxiv.org/pdf/1607.06333.pdf)] [[code](https://github.com/achab/nphc)]
-1. **Learning Granger Causality for Hawkes Processes**. *Hongteng Xu, Mehrdad Farajtabar, Hongyuan Zha*. ICML 2016. [[pdf](https://arxiv.org/pdf/1602.04511.pdf)]
-1. **Hawkes processes for Continuous Time Sequence Classification: An Application to Rumour Stance Classification in Twitter.**. *Michal Lukasik, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn*. ACL 2016. [[pdf](https://aclanthology.org/P16-2064.pdf)] [[code](https://github.com/mlukasik/seqhawkes)]
-1. **Learning Network of Multivariate Hawkes Processes: A Time Series Approach**. *Jalal Etesami, Negar Kiyavash, Kun Zhang, Kushagra Singhal*. UAI 2016. [[pdf](https://arxiv.org/pdf/1603.04319)]
-1. **The Bayesian Echo Chamber: Modeling Social Influence via Linguistic Accommodation**. *Fangjian Guo, Charles Blundell, Hanna Wallach, Katherine Heller*. AISTATS 2015. [[pdf](https://arxiv.org/pdf/1411.2674)]
-1. **Constructing Disease Network and Temporal Progression Model via Context-sensitive Hawkes Process**. *Edward Choi, Nan Du, Robert Chen, Le Song, Jimeng Sun*. ICDM 2015. [[pdf](https://ieeexplore.ieee.org/document/7373379)]
 1. **Time-sensitive Recommendation from Recurrent User Activities**. *Nan Du, Yichen Wang, Niao He, Jimeng Sun, and Le Song*. NeurIPS 2015. [[pdf](https://papers.nips.cc/paper/2015/file/136f951362dab62e64eb8e841183c2a9-Paper.pdf)]
+### 4.4 Causality Discovery
+1. **CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods**. *Wei Zhang, Thomas Kobber Panum, Somesh Jha, Prasad Chalasani, David Page*. ICML 2020. [[pdf](https://arxiv.org/pdf/2002.07906.pdf)] [[slideslive](https://slideslive.com/s/prasad-chalasani-30427)] [[code & data](https://github.com/razhangwei/CAUSE)]
+1. **Uncovering Causality from Multivariate Hawkes Integrated Cumulants**. *Massil Achab, Emmanuel Bacry, Stéphane Gaïffas, Iacopo Mastromatteo, Jean-Francois Muzy*. ICML 2017. [[pdf](https://arxiv.org/pdf/1607.06333.pdf)] [[code](https://github.com/achab/nphc)]
+1. **Graphical Modeling for Multivariate Hawkes Processes with Nonparametric Link Functions**. *Michael Eichler, Rainer Dahlhaus, Johannes Dueck*. Journal of Time Series Analysis 2017. [[pdf](https://arxiv.org/pdf/1605.06759.pdf)]
+1. **Learning Granger Causality for Hawkes Processes**. *Hongteng Xu, Mehrdad Farajtabar, Hongyuan Zha*. ICML 2016. [[pdf](https://arxiv.org/pdf/1602.04511.pdf)]
+1. **Learning Network of Multivariate Hawkes Processes: A Time Series Approach**. *Jalal Etesami, Negar Kiyavash, Kun Zhang, Kushagra Singhal*. UAI 2016. [[pdf](https://arxiv.org/pdf/1603.04319)]
+### 4.5 Audio Processing
+1. **Recurrent Poisson Process Unit for Speech Recognition**. *Hengguan Huang, Hao Wang, Brian Mak*. AAAI 2019. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4620/4498)]
+### 4.6 Natural Lanuage Processing
+1. **Hawkes processes for Continuous Time Sequence Classification: An Application to Rumour Stance Classification in Twitter.**. *Michal Lukasik, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn*. ACL 2016. [[pdf](https://aclanthology.org/P16-2064.pdf)] [[code](https://github.com/mlukasik/seqhawkes)]
 1. **Dirichlet-Hawkes Processes with Applications to Clustering Continuous-time Document Streams**. *Nan Du, Mehrdad Farajtabar, Amr Ahmed, Alexander J Smola, Le Song*. KDD 2015. [[pdf](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411)]
 1. **Hawkestopic: A Joint Model for Network Inference and Topic Modeling from Text-based Cascades**. *Xinran He, Theodoros Rekatsinas, James Foulds, Lise Getoor, Yan Liu*. ICML 2015. [[pdf](http://proceedings.mlr.press/v37/he15.pdf)]
+### 4.7 Computer Vision
+1. **Egocentric Activity Prediction via Event Modulated Attention**. *Yang Shen, Bingbing Ni, Zefan Li, Ning Zhuang*. ECCV 2018. [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)]
+### 4.8 Anomaly Detection
+1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, and
+Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
+### 4.9 Network Structure Discovery
 1. **Discovering Latent Network Structure in Point Process Data**. *Scott Linderman and Ryan Adams*. ICML 2014. [[pdf](http://proceedings.mlr.press/v32/linderman14.pdf)] [[code](https://github.com/slinderman/pyhawkes)]
-1. **Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, Le Song*. AISTATS 2013. [[pdf](http://proceedings.mlr.press/v31/zhou13a.pdf)]
+### 4.10 Science
+1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
 1. **Mixture of Mutually Exciting Processes for Viral Diffusion**. *Shuang-Hong Yang, Hongyuan Zha*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/yang13a.pdf)]
+### 4.11 Other Applications
+1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
+
+
+
+<!-- 1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks**. *Srijan Kumar, Xikun Zhang, and Jure Leskovec.* KDD 2019. [[pdf](https://arxiv.org/pdf/1908.01207.pdf)] [[code & data](http://snap.stanford.edu/jodie/)] -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Acknowledgements
 Great thanks to other contributors aachenhang, BBB, CCC! (names are not listed in particular order)
