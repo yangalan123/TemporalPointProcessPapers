@@ -16,6 +16,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
+1. **TPPToolkits: Toolkits for Temporal Point Process**. *Hongyuan Mei, Chenghao Yang*. [[website](https://github.com/yangalan123/TPPToolkits)]
 1. **PoPPy: A Point Process Toolbox Based on PyTorch**. *Hongteng Xu*. arXiv 2018. [[website](https://github.com/HongtengXu/PoPPy)] [[pdf](https://arxiv.org/pdf/1810.10122.pdf)]
 1. **THAP: A Matlab Toolkit for Learning with Hawkes Processes**. *Hongteng Xu, Hongyuan Zha*. arXiv 2017. [[website](https://github.com/HongtengXu/Hawkes-Process-Toolkit)] [[pdf](https://arxiv.org/pdf/1708.09252.pdf)]
 1. **Tick: a Python library for statistical learning, with a particular emphasis on time-dependent modelling**. *Emmanuel Bacry, Martin Bompaire, Stéphane Gaïffas, Soren Poulsen*. arXiv 2017. [[website](https://x-datainitiative.github.io/tick/index.html)] [[pdf](https://arxiv.org/pdf/1707.03003.pdf)]
@@ -66,6 +67,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning**. *Junchi Yan, Xin Liu, Liangliang Shi, Changsheng Li, Hongyuan Zha*. IJCAI 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0409.pdf)]
 
 ## 4. Application Papers
+1. **Identifying Coordinated Accounts on Social Media through Hidden Influence and Group Behaviours**. *Karishma Sharma, Yizhou Zhang, Emilio Ferrara, Yan Liu*. KDD 2021. [[pdf](https://arxiv.org/pdf/2008.11308.pdf)] [[code](https://github.com/USC-Melady/AMDN-HAGE-KDD21)]
 1. **Personalized Dynamic Treatment Regimes in Continuous Time: A Bayesian Joint Model for Optimizing Clinical Decisions with Timing**. *William Hua, Hongyuan Mei, Sarah Zohar, Magali Giral, Yanxun Xu*. Bayesian Analysis (2021). [[pdf](https://arxiv.org/pdf/2007.04155.pdf)] [[code](https://github.com/YanxunXu/doct)]
 1. **CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods**. *Wei Zhang, Thomas Kobber Panum, Somesh Jha, Prasad Chalasani, David Page*. ICML 2020. [[pdf](https://arxiv.org/pdf/2002.07906.pdf)] [[slideslive](https://slideslive.com/s/prasad-chalasani-30427)] [[code & data](https://github.com/razhangwei/CAUSE)]
 1. **Neural Temporal Point Processes For Modelling Electronic Health Records**. *Joseph Enguehard, Dan Busbridge, Adam Bozson, Claire Woodcock, Nils Hammerla*. Machine Learning for Health 2020. [[pdf](http://proceedings.mlr.press/v136/enguehard20a/enguehard20a.pdf)] [[code](https://github.com/babylonhealth/neuralTPPs)]
