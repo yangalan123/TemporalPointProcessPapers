@@ -109,6 +109,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 ### 4.7 Computer Vision
 1. **Egocentric Activity Prediction via Event Modulated Attention**. *Yang Shen, Bingbing Ni, Zefan Li, Ning Zhuang*. ECCV 2018. [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)]
 ### 4.8 Anomaly Detection
+1. **Detecting Anomalous Event Sequences with Temporal Point Processes**. *Oleksandr Shchur, Ali Caner Türkmen, Tim Januschowski, Jan Gasthaus, Stephan Günnemann*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2106.04465.pdf)]
 1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, and
 Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
 ### 4.9 Network Structure Discovery
