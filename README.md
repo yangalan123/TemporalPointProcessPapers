@@ -139,6 +139,9 @@ Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
 
 
 ## Acknowledgements
-Great thanks to other contributors aachenhang, BBB, CCC! (names are not listed in particular order)
+We thank all the contributors to this list. And more contributions are very welcome.
 
-Please contact us if we miss your names in this list, we will add you back ASAP!
+<a href="https://github.com/thunlp/TAADpapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thunlp/TAADpapers" />
+</a>
+
