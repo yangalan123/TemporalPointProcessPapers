@@ -40,6 +40,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Hawkes Process Modeling
+1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/abs/2201.00044)] [[code](https://github.com/yangalan123/anhp-andtt)]
 1. **Neural Spatio-Temporal Point Processes**. *Ricky T. Q. Chen, Brandon Amos, Maximilian Nickel*. ICLR 2021. [[pdf](https://arxiv.org/pdf/2011.04583.pdf)] [[code](https://github.com/facebookresearch/neural_stpp)]
 1. **Transformer Hawkes Process**. *Simiao Zuo, Haoming Jiang, Zichong Li, Tuo Zhao, Hongyuan Zha*. ICML 2020. [[pdf](https://arxiv.org/pdf/2002.09291.pdf)] [[code](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)]
 1. **Self-Attentive Hawkes Process**. *Qiang Zhang, Aldo Lipani, Omer Kirnap, Emine Yilmaz*. ICML 2020. [[pdf](https://arxiv.org/pdf/1907.07561.pdf)] [[code](https://github.com/QiangAIResearcher/sahp_repo)]
