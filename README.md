@@ -1,7 +1,7 @@
-# Must-read Papers on Temporal Point Process (TPP)
+# Recommended Reading on Temporal Point Process (TPP)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Mainly Contributed by Chenghao Yang, Hongyuan Mei and Jason Eisner.
+Mainly Contributed by [Chenghao Yang](https://yangalan123.github.io/), [Hongyuan Mei](https://www.hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
 Thanks for all great [contributors](#acknowledgements) on GitHub!
 
