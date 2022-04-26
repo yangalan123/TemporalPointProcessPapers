@@ -60,6 +60,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Isotonic Hawkes Processes**. *Yichen Wang, Bo Xie, Nan Du, Le Song*. ICML 2016. [[pdf](http://proceedings.mlr.press/v48/wangg16.pdf)]
 1. **Hawkes Processes with Stochastic Excitations**. *Young Lee, Kar Wai Lim, Cheng Soon Ong*. ICML 2016. [[pdf](https://arxiv.org/pdf/1609.06831.pdf)]
 1. **Learning Triggering Kernels for Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, and Le Song*. ICML 2013. [[paper](http://proceedings.mlr.press/v28/zhou13.pdf)]
+1. **Long Horizon Forecasting with Temporal Point Processes**. *Prathamesh Deshpande, Kamlesh Marathe, Abir De, Sunita Sarawagi*. WSDM 2021. [[paper](https://dl.acm.org/doi/10.1145/3437963.3441740)]
+1. **Deep Fourier Kernel for Self-Attentive Point Processes**. *Shixiang Zhu, Minghe Zhang, Ruyi Ding, Yao Xie*. AISTATS 2021. [[paper](http://proceedings.mlr.press/v130/zhu21b.html)]
 
 ### 2.2 Structured Hawkes Process Modeling
 1. **Learning Neural Point Processes with Latent Graphs**. *Qiang Zhang, Aldo Lipani, and Emine Yilmaz*. WWW 2021. [[pdf](https://discovery.ucl.ac.uk/id/eprint/10122006/1/2021_WWW_Learning_Neural_Point_Processes_with_Latent_Graphs.pdf)]
@@ -111,13 +113,15 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Egocentric Activity Prediction via Event Modulated Attention**. *Yang Shen, Bingbing Ni, Zefan Li, Ning Zhuang*. ECCV 2018. [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)]
 ### 4.8 Anomaly Detection
 1. **Detecting Anomalous Event Sequences with Temporal Point Processes**. *Oleksandr Shchur, Ali Caner Türkmen, Tim Januschowski, Jan Gasthaus, Stephan Günnemann*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2106.04465.pdf)]
-1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, and
-Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
+1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
 ### 4.9 Network Structure Discovery
 1. **Discovering Latent Network Structure in Point Process Data**. *Scott Linderman and Ryan Adams*. ICML 2014. [[pdf](http://proceedings.mlr.press/v32/linderman14.pdf)] [[code](https://github.com/slinderman/pyhawkes)]
 ### 4.10 Science
 1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
 1. **Mixture of Mutually Exciting Processes for Viral Diffusion**. *Shuang-Hong Yang, Hongyuan Zha*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/yang13a.pdf)]
+1. **Point process models for sequence detection in high-dimensional neural spike trains**. *Alex Williams, Anthony Degleris, Yixin Wang, Scott Linderman*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2010.04875.pdf)] [[code](https://github.com/lindermanlab/PPSeq.jl)]
+
+
 ### 4.11 Other Applications
 1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
 
