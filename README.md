@@ -45,8 +45,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### 2.1 Hawkes Process Modeling
 1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/abs/2201.00044)] [[code](https://github.com/yangalan123/anhp-andtt)]
-1. **Long Horizon Forecasting with Temporal Point Processes**. *Prathamesh Deshpande, Kamlesh Marathe, Abir De, Sunita Sarawagi*. WSDM 2021. [[paper](https://dl.acm.org/doi/10.1145/3437963.3441740)]
-1. **Deep Fourier Kernel for Self-Attentive Point Processes**. *Shixiang Zhu, Minghe Zhang, Ruyi Ding, Yao Xie*. AISTATS 2021. [[paper](http://proceedings.mlr.press/v130/zhu21b.html)]
+1. **Long Horizon Forecasting with Temporal Point Processes**. *Prathamesh Deshpande, Kamlesh Marathe, Abir De, Sunita Sarawagi*. WSDM 2021. [[pdf](https://dl.acm.org/doi/10.1145/3437963.3441740)]
+1. **Deep Fourier Kernel for Self-Attentive Point Processes**. *Shixiang Zhu, Minghe Zhang, Ruyi Ding, Yao Xie*. AISTATS 2021. [[pdf](http://proceedings.mlr.press/v130/zhu21b.html)]
 1. **Neural Spatio-Temporal Point Processes**. *Ricky T. Q. Chen, Brandon Amos, Maximilian Nickel*. ICLR 2021. [[pdf](https://arxiv.org/pdf/2011.04583.pdf)] [[code](https://github.com/facebookresearch/neural_stpp)]
 1. **Transformer Hawkes Process**. *Simiao Zuo, Haoming Jiang, Zichong Li, Tuo Zhao, Hongyuan Zha*. ICML 2020. [[pdf](https://arxiv.org/pdf/2002.09291.pdf)] [[code](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)]
 1. **Self-Attentive Hawkes Process**. *Qiang Zhang, Aldo Lipani, Omer Kirnap, Emine Yilmaz*. ICML 2020. [[pdf](https://arxiv.org/pdf/1907.07561.pdf)] [[code](https://github.com/QiangAIResearcher/sahp_repo)]
@@ -65,7 +65,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Recurrent Marked Temporal Point Processes: Embedding Event History to Vector**. *Nan Du, Hanjun Dai, Rakshit Trivedi, Utkarsh Upadhyay, Manuel Gomez-Rodriguez, and Le Song*. KDD 2016. [[pdf](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)] [[code](https://github.com/dunan/NeuralPointProcess)]
 1. **Isotonic Hawkes Processes**. *Yichen Wang, Bo Xie, Nan Du, Le Song*. ICML 2016. [[pdf](http://proceedings.mlr.press/v48/wangg16.pdf)]
 1. **Hawkes Processes with Stochastic Excitations**. *Young Lee, Kar Wai Lim, Cheng Soon Ong*. ICML 2016. [[pdf](https://arxiv.org/pdf/1609.06831.pdf)]
-1. **Learning Triggering Kernels for Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, and Le Song*. ICML 2013. [[paper](http://proceedings.mlr.press/v28/zhou13.pdf)]
+1. **Learning Triggering Kernels for Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, and Le Song*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/zhou13.pdf)]
 
 ### 2.2 Structured Hawkes Process Modeling
 1. **Learning Neural Point Processes with Latent Graphs**. *Qiang Zhang, Aldo Lipani, and Emine Yilmaz*. WWW 2021. [[pdf](https://discovery.ucl.ac.uk/id/eprint/10122006/1/2021_WWW_Learning_Neural_Point_Processes_with_Latent_Graphs.pdf)]
