@@ -12,6 +12,12 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [2.1 Hawkes Process Modeling](#21-hawkes-process-modeling)
     * [2.2 Structured Hawkes Process Modeling](#22-structured-hawkes-process-modeling)
 * [3. Algorithm Papers](#3-algorithm-papers)
+    * [3.1 Training Algorithm](#31-training-algorithm)
+    * [3.2 Imputing](#32-imputing)
+    * [3.3 Anomaly Detection](#33-anomaly-detection)
+    * [3.4 Clustering](#34-clustering)
+    * [3.5 Data Augmentation](#35-data-augmentation)
+    * [3.6 Denoising](#36-denoising)
 * [4. Application Papers](#4-application-papers)
     * [4.1 Social Media](#41-social-media)
     * [4.2 Clinical Health](#42-clinical-health)
@@ -20,10 +26,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [4.5 Audio Processing](#45-audio-processing)
     * [4.6 Natural Language Processing](#46-natural-language-processing)
     * [4.7 Computer Vision](#47-computer-vision)
-    * [4.8 Anomaly Detection](#48-anomaly-detection)
-    * [4.9 Network Structure Discovery](#49-network-structure-discovery)
-    * [4.10 Science](#410-science)
-    * [4.11 Other Applications](#411-other-applications)
+    * [4.8 Network Structure Discovery](#48-network-structure-discovery)
+    * [4.9 Science](#49-science)
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
@@ -73,12 +77,32 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**. *Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song*. ICML 2017. [[pdf](https://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)]
 
 ## 3. Algorithm Papers
+### 3.1 Training Algorithm
 1. **Noise-Contrastive Estimation for Multivariate Point Processes**. *Hongyuan Mei, Tom Wan, Jason Eisner*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.00717.pdf)] [[code](https://github.com/HMEIatJHU/nce-mpp)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+wan+eisner.neurips20.talk.pdf)]
-1. **Imputing Missing Events in Continuous-Time Event Streams**. *Hongyuan Mei, Guanghui Qin, Jason Eisner*. ICML 2019. [[pdf](https://arxiv.org/pdf/1905.05570.pdf)] [[code](https://github.com/HMEIatJHU/neurawkes)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+eisner.icml19.talk.pdf)]
 1. **Learning Temporal Point Processes via Reinforcement Learning**. *Shuang Li, Shuai Xiao, Shixiang Zhu, Nan Du, Yao Xie, Le Song*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf)]
 1. **INITIATOR: Noise-contrastive Estimation for Marked Temporal Point Process**. *Ruocheng Guo, Jundong Li, and Huan
 Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning**. *Junchi Yan, Xin Liu, Liangliang Shi, Changsheng Li, Hongyuan Zha*. IJCAI 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0409.pdf)]
+
+### 3.2 Imputing
+1. **Imputing Missing Events in Continuous-Time Event Streams**. *Hongyuan Mei, Guanghui Qin, Jason Eisner*. ICML 2019. [[pdf](https://arxiv.org/pdf/1905.05570.pdf)] [[code](https://github.com/HMEIatJHU/neurawkes)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+eisner.icml19.talk.pdf)]
+
+### 3.3 Anomaly Detection
+1. **Detecting Anomalous Event Sequences with Temporal Point Processes**. *Oleksandr Shchur, Ali Caner Türkmen, Tim Januschowski, Jan Gasthaus, Stephan Günnemann*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2106.04465.pdf)]
+1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
+
+### 3.4 Clustering
+1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
+1. **Definition of Distance for Nonlinear Time Series Analysis of Marked Point Process Data**. *Koji Iwayama, Yoshito Hirata, Kazuyuki Aihara*. Physics Letters A 2017. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S037596011631564X)] 
+
+### 3.5 Data Augmentation
+1. **Benefits from superposed hawkes processes**. *Hongteng Xu, Dixin Luo, Xu Chen, Lawrence Carin*. AISTATS 2018. [[pdf](https://arxiv.org/pdf/1710.05115.pdf)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
+1. **Learning Hawkes processes from short doubly-censored event sequences**. *Hongteng Xu, Dixin Luo, Hongyuan Zha*. ICML 2017. [[pdf](https://arxiv.org/pdf/1702.07013.pdf)]
+1. **Transforming spatial point processes into Poisson processes using random superposition**. *Jesper Møller, Kasper K. Berthelsen*. Advances in Applied Probability 2012. [[pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFDAE6427340C7D79D2168E5613F0F5C/S0001867800005449a.pdf/transforming-spatial-point-processes-into-poisson-processes-using-random-superposition.pdf)]
+
+### 3.6 Denoising
+1. **Learning Hawkes processes under synchronization noise**. *William Trouleau, Jalal Etesami, Matthias Grossglauser, Negar Kiyavash, Patrick Thiran*. ICML 2019. [[pdf](http://proceedings.mlr.press/v97/trouleau19a/trouleau19a.pdf)]
+1. **Learning registered point processes from idiosyncratic observations**. *Hongteng Xu, Lawrence Carin, Hongyuan Zha*. ICML 2018. [[pdf](http://people.ee.duke.edu/~lcarin/Hongteng_ICML18.pdf)]
 
 ## 4. Application Papers
 
@@ -91,6 +115,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 ### 4.2 Clinical Health
 1. **Personalized Dynamic Treatment Regimes in Continuous Time: A Bayesian Joint Model for Optimizing Clinical Decisions with Timing**. *William Hua, Hongyuan Mei, Sarah Zohar, Magali Giral, Yanxun Xu*. Bayesian Analysis (2021). [[pdf](https://arxiv.org/pdf/2007.04155.pdf)] [[code](https://github.com/YanxunXu/doct)]
 1. **Neural Temporal Point Processes For Modelling Electronic Health Records**. *Joseph Enguehard, Dan Busbridge, Adam Bozson, Claire Woodcock, Nils Hammerla*. Machine Learning for Health 2020. [[pdf](http://proceedings.mlr.press/v136/enguehard20a/enguehard20a.pdf)] [[code](https://github.com/babylonhealth/neuralTPPs)]
+1. **Patient Flow Prediction via Discriminative Learning of Mutually-Correcting Processes**. *Hongteng Xu, Weichang Wu, Shamim Nemati, Hongyuan Zha*. TKDE 2016. [[pdf](https://arxiv.org/pdf/1602.05112.pdf)]
 1. **Constructing Disease Network and Temporal Progression Model via Context-sensitive Hawkes Process**. *Edward Choi, Nan Du, Robert Chen, Le Song, Jimeng Sun*. ICDM 2015. [[pdf](https://ieeexplore.ieee.org/document/7373379)]
 ### 4.3 E-commerce
 1. **Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions**. *Bjørnar Vassøy, Massimiliano Ruocco, Eliezer de Souza da Silva, Erlend Aune*. WSDM 2019. [[pdf](https://arxiv.org/pdf/1812.01276.pdf)] [[code](https://github.com/BjornarVass/Recsys)]
@@ -111,19 +136,16 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Hawkestopic: A Joint Model for Network Inference and Topic Modeling from Text-based Cascades**. *Xinran He, Theodoros Rekatsinas, James Foulds, Lise Getoor, Yan Liu*. ICML 2015. [[pdf](http://proceedings.mlr.press/v37/he15.pdf)]
 ### 4.7 Computer Vision
 1. **Egocentric Activity Prediction via Event Modulated Attention**. *Yang Shen, Bingbing Ni, Zefan Li, Ning Zhuang*. ECCV 2018. [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)]
-### 4.8 Anomaly Detection
-1. **Detecting Anomalous Event Sequences with Temporal Point Processes**. *Oleksandr Shchur, Ali Caner Türkmen, Tim Januschowski, Jan Gasthaus, Stephan Günnemann*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2106.04465.pdf)]
-1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
-### 4.9 Network Structure Discovery
+
+### 4.8 Network Structure Discovery
 1. **Discovering Latent Network Structure in Point Process Data**. *Scott Linderman and Ryan Adams*. ICML 2014. [[pdf](http://proceedings.mlr.press/v32/linderman14.pdf)] [[code](https://github.com/slinderman/pyhawkes)]
-### 4.10 Science
+### 4.9 Science
 1. **Point process models for sequence detection in high-dimensional neural spike trains**. *Alex Williams, Anthony Degleris, Yixin Wang, Scott Linderman*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2010.04875.pdf)] [[code](https://github.com/lindermanlab/PPSeq.jl)]
 1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
 1. **Mixture of Mutually Exciting Processes for Viral Diffusion**. *Shuang-Hong Yang, Hongyuan Zha*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/yang13a.pdf)]
 
 
-### 4.11 Other Applications
-1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
+
 
 
 
