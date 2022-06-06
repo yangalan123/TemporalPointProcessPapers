@@ -37,6 +37,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Tick: a Python library for statistical learning, with a particular emphasis on time-dependent modelling**. *Emmanuel Bacry, Martin Bompaire, Stéphane Gaïffas, Soren Poulsen*. arXiv 2017. [[website](https://x-datainitiative.github.io/tick/index.html)] [[pdf](https://arxiv.org/pdf/1707.03003.pdf)]
 
 ## 1. Survey Papers
+1. **Transformers in Time Series: A Survey**. *Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, Liang Sun*. Arxiv 2022. [[pdf](https://arxiv.org/pdf/2202.07125.pdf)]
 1. **Neural Temporal Point Processes: A Review**. *Oleksandr Shchur, Ali Caner Türkmen, Tim Januschowski, Stephan Günnemann*. IJCAI 2021. [[pdf](https://arxiv.org/pdf/2104.03528.pdf)]
 1. **Recent Advance in Temporal Point Process: from Machine Learning Perspective**. *Junchi Yan*. SJTU Technical Report 2019. [[pdf](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf)]
 
