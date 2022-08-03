@@ -133,7 +133,8 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 ### 4.5 Audio Processing
 1. **Recurrent Poisson Process Unit for Speech Recognition**. *Hengguan Huang, Hao Wang, Brian Mak*. AAAI 2019. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4620/4498)]
 ### 4.6 Natural Language Processing
-1. **Hawkes processes for Continuous Time Sequence Classification: An Application to Rumour Stance Classification in Twitter.**. *Michal Lukasik, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn*. ACL 2016. [[pdf](https://aclanthology.org/P16-2064.pdf)] [[code](https://github.com/mlukasik/seqhawkes)]
+1. **Early Rumor Detection Using Neural Hawkes Process with a New Benchmark Dataset**. *Fengzhu Zeng, Wei Gao*. NAACL 2022. [[pdf](https://aclanthology.org/2022.naacl-main.302.pdf)] [[code & dataset](https://github.com/znhy1024/HEARD)]
+1. **Hawkes processes for Continuous Time Sequence Classification: An Application to Rumour Stance Classification in Twitter**. *Michal Lukasik, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn*. ACL 2016. [[pdf](https://aclanthology.org/P16-2064.pdf)] [[code](https://github.com/mlukasik/seqhawkes)]
 1. **Dirichlet-Hawkes Processes with Applications to Clustering Continuous-time Document Streams**. *Nan Du, Mehrdad Farajtabar, Amr Ahmed, Alexander J Smola, Le Song*. KDD 2015. [[pdf](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411)]
 1. **Hawkestopic: A Joint Model for Network Inference and Topic Modeling from Text-based Cascades**. *Xinran He, Theodoros Rekatsinas, James Foulds, Lise Getoor, Yan Liu*. ICML 2015. [[pdf](http://proceedings.mlr.press/v37/he15.pdf)]
 ### 4.7 Computer Vision
