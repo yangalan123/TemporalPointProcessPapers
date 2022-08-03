@@ -93,6 +93,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
 
 ### 3.4 Clustering
+1. **Learning Mixture of Neural Temporal Point Processes for Multi-dimensional Event Sequence Clustering**. *Yunhao Zhang, Junchi Yan, Xiaolu Zhang, Jun Zhou, Xiaokang Yang1*. IJCAI 2022. [[pdf](https://www.ijcai.org/proceedings/2022/0523.pdf)]
 1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
 1. **Definition of Distance for Nonlinear Time Series Analysis of Marked Point Process Data**. *Koji Iwayama, Yoshito Hirata, Kazuyuki Aihara*. Physics Letters A 2017. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S037596011631564X)] 
 
