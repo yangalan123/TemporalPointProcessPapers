@@ -45,7 +45,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Hawkes Process Modeling
-1. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**. *Siqiao Xue, Xiaoming Shi, James Y Zhang, Hongyuan Mei*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.01753.pdf)] [[code (iLampard)](https://github.com/iLampard/hypro_tpp)] [[code](alipay)](https://github.com/alipay/hypro_tpp)]
+1. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**. *Siqiao Xue, Xiaoming Shi, James Y Zhang, Hongyuan Mei*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.01753.pdf)] [[code (iLampard)](https://github.com/iLampard/hypro_tpp)] [[code (alipay)](https://github.com/alipay/hypro_tpp)]
 1. **Exploring Generative Neural Temporal Point Process**. *Haitao Lin, Lirong Wu, Guojiang Zhao, Pai Liu, Stan Z. Li*. TMLR 2022. [[pdf](https://arxiv.org/pdf/2208.01874.pdf)] [[code](https://github.com/BIRD-TAO/GNTPP)]
 1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/pdf/2201.00044.pdf)] [[code](https://github.com/yangalan123/anhp-andtt)]
 1. **Long Horizon Forecasting with Temporal Point Processes**. *Prathamesh Deshpande, Kamlesh Marathe, Abir De, Sunita Sarawagi*. WSDM 2021. [[pdf](https://dl.acm.org/doi/10.1145/3437963.3441740)]
