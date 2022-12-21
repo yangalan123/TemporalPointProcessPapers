@@ -28,6 +28,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [4.7 Computer Vision](#47-computer-vision)
     * [4.8 Network Structure Discovery](#48-network-structure-discovery)
     * [4.9 Science](#49-science)
+    * [4.10 Reinforcement Learning](#410-reinforcement-learning)
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
@@ -148,7 +149,8 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Point process models for sequence detection in high-dimensional neural spike trains**. *Alex Williams, Anthony Degleris, Yixin Wang, Scott Linderman*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2010.04875.pdf)] [[code](https://github.com/lindermanlab/PPSeq.jl)]
 1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
 1. **Mixture of Mutually Exciting Processes for Viral Diffusion**. *Shuang-Hong Yang, Hongyuan Zha*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/yang13a.pdf)]
-
+### 4.10 Reinforcement Learning
+1. **Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes**. *Chao Qu, Xiaoyu Tan, Siqiao Xue, Xiaoming Shi, James Zhang, Hongyuan Mei*. AAAI 2023. [[pdf](https://arxiv.org/pdf/2201.12569.pdf)] [[code](https://github.com/Event-Driven-rl/Event-Driven-RL)]
 
 
 
