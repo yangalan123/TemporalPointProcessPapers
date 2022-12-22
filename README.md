@@ -155,7 +155,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 
 
 ## 5. Research Opportunities
-Note: Papers listed in this section is loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
+Note: Papers listed in this section are loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
 
 1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)]
 
