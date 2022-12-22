@@ -29,6 +29,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [4.8 Network Structure Discovery](#48-network-structure-discovery)
     * [4.9 Science](#49-science)
     * [4.10 Reinforcement Learning](#410-reinforcement-learning)
+* [5. Research Opportunities](#5-research-opportunities)
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
@@ -153,7 +154,10 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes**. *Chao Qu, Xiaoyu Tan, Siqiao Xue, Xiaoming Shi, James Zhang, Hongyuan Mei*. AAAI 2023. [[pdf](https://arxiv.org/pdf/2201.12569.pdf)] [[code](https://github.com/Event-Driven-rl/Event-Driven-RL)]
 
 
+## 5. Research Opportunities
+Note: Papers listed in this section is loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
 
+1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)]
 
 
 <!-- 1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks**. *Srijan Kumar, Xikun Zhang, and Jure Leskovec.* KDD 2019. [[pdf](https://arxiv.org/pdf/1908.01207.pdf)] [[code & data](http://snap.stanford.edu/jodie/)] -->
