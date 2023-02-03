@@ -47,6 +47,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Temporal Point Process Modeling
+1. **Meta Temporal Point Processes**. *Wonho Bae, Mohamed Osama Ahmed, Frederick Tung, Gabriel L. Oliveira*. ICLR 2023. [[pdf](https://arxiv.org/pdf/2301.12023.pdf)]
 1. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**. *Siqiao Xue, Xiaoming Shi, James Y Zhang, Hongyuan Mei*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.01753.pdf)] [[code (iLampard)](https://github.com/iLampard/hypro_tpp)] [[code (alipay)](https://github.com/alipay/hypro_tpp)]
 1. **Exploring Generative Neural Temporal Point Process**. *Haitao Lin, Lirong Wu, Guojiang Zhao, Pai Liu, Stan Z. Li*. TMLR 2022. [[pdf](https://arxiv.org/pdf/2208.01874.pdf)] [[code](https://github.com/BIRD-TAO/GNTPP)]
 1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/pdf/2201.00044.pdf)] [[code](https://github.com/yangalan123/anhp-andtt)]
@@ -157,7 +158,9 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 ## 5. Research Opportunities
 Note: Papers listed in this section are loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
 
-1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)]
+1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)] <details><summary>Why this is relevant? See here for compilers' comments (<i>click to expand</i>)</summary>
+(Comments: This is for general autoregressive models and the authors does not do experiments on TPP, but TPP practioners may find it interesting to apply the core idea.)
+</details>
 
 
 <!-- 1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks**. *Srijan Kumar, Xikun Zhang, and Jure Leskovec.* KDD 2019. [[pdf](https://arxiv.org/pdf/1908.01207.pdf)] [[code & data](http://snap.stanford.edu/jodie/)] -->
