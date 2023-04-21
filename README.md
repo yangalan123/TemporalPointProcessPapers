@@ -18,6 +18,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [3.4 Clustering](#34-clustering)
     * [3.5 Data Augmentation](#35-data-augmentation)
     * [3.6 Denoising](#36-denoising)
+    * [3.7 Querying](#37-querying)
 * [4. Application Papers](#4-application-papers)
     * [4.1 Social Media](#41-social-media)
     * [4.2 Clinical Health](#42-clinical-health)
@@ -111,6 +112,9 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Learning Hawkes processes under synchronization noise**. *William Trouleau, Jalal Etesami, Matthias Grossglauser, Negar Kiyavash, Patrick Thiran*. ICML 2019. [[pdf](http://proceedings.mlr.press/v97/trouleau19a/trouleau19a.pdf)]
 1. **Learning registered point processes from idiosyncratic observations**. *Hongteng Xu, Lawrence Carin, Hongyuan Zha*. ICML 2018. [[pdf](http://people.ee.duke.edu/~lcarin/Hongteng_ICML18.pdf)]
 
+### 3.7 Querying
+1. **Probabilistic Querying of Continuous-Time Event Sequences**. *Alex Boyd, Yuxin Chang, Stephan Mandt, Padhraic Smyth*. AISTATS 2023. [[pdf](https://proceedings.mlr.press/v206/boyd23a/boyd23a.pdf)] [[code](https://github.com/ajboyd2/point_process_queries)]
+
 ## 4. Application Papers
 
 ### 4.1 Social Media
@@ -120,6 +124,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **The Bayesian Echo Chamber: Modeling Social Influence via Linguistic Accommodation**. *Fangjian Guo, Charles Blundell, Hanna Wallach, Katherine Heller*. AISTATS 2015. [[pdf](https://arxiv.org/pdf/1411.2674)]
 1. **Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, Le Song*. AISTATS 2013. [[pdf](http://proceedings.mlr.press/v31/zhou13a.pdf)]
 ### 4.2 Clinical Health
+1. **Continuous-Time Decision Transformer for Healthcare Applications**. *Zhiyue Zhang, Hongyuan Mei, Yanxun Xu*. AISTATS 2023. [[pdf](https://proceedings.mlr.press/v206/zhang23i/zhang23i.pdf)] [[code](https://github.com/ZhiyueZ/CTDT)]
 1. **Personalized Dynamic Treatment Regimes in Continuous Time: A Bayesian Joint Model for Optimizing Clinical Decisions with Timing**. *William Hua, Hongyuan Mei, Sarah Zohar, Magali Giral, Yanxun Xu*. Bayesian Analysis (2021). [[pdf](https://arxiv.org/pdf/2007.04155.pdf)] [[code](https://github.com/YanxunXu/doct)]
 1. **Neural Temporal Point Processes For Modelling Electronic Health Records**. *Joseph Enguehard, Dan Busbridge, Adam Bozson, Claire Woodcock, Nils Hammerla*. Machine Learning for Health 2020. [[pdf](http://proceedings.mlr.press/v136/enguehard20a/enguehard20a.pdf)] [[code](https://github.com/babylonhealth/neuralTPPs)]
 1. **Patient Flow Prediction via Discriminative Learning of Mutually-Correcting Processes**. *Hongteng Xu, Weichang Wu, Shamim Nemati, Hongyuan Zha*. TKDE 2016. [[pdf](https://arxiv.org/pdf/1602.05112.pdf)]
@@ -159,7 +164,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 Note: Papers listed in this section are loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
 
 1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)] <details><summary>Why this is relevant? See here for compilers' comments (<i>click to expand</i>)</summary>
-(Comments: This is for general autoregressive models and the authors does not do experiments on TPP, but TPP practioners may find it interesting to apply the core idea.)
+(Comments: This is for general autoregressive models and the authors does not do experiments on TPP, but TPP practioners may find it interesting to think about how we can deal with queries beyond one-step-ahead, like `How likely is event A to occur before event B?` and `How likely is event C to occur (once of more) within the next K steps of the sequence?`. An example application in TPP is published in AISTATS 2023, which is listed in Section ``Querying'' of this paper list. )
 </details>
 
 
