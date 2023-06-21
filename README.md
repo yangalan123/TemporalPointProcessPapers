@@ -48,6 +48,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Temporal Point Process Modeling
+1. **Intensity-free Convolutional Temporal Point Process: Incorporating Local and Global Event Contexts**. *Wang-Tao Zhou, Zhao Kang, Ling Tian, Yi Su*. Information Sciences 2023. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0020025523009039)] 
 1. **Meta Temporal Point Processes**. *Wonho Bae, Mohamed Osama Ahmed, Frederick Tung, Gabriel L. Oliveira*. ICLR 2023. [[pdf](https://arxiv.org/pdf/2301.12023.pdf)]
 1. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**. *Siqiao Xue, Xiaoming Shi, James Y Zhang, Hongyuan Mei*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.01753.pdf)] [[code (iLampard)](https://github.com/iLampard/hypro_tpp)] [[code (alipay)](https://github.com/alipay/hypro_tpp)]
 1. **Exploring Generative Neural Temporal Point Process**. *Haitao Lin, Lirong Wu, Guojiang Zhao, Pai Liu, Stan Z. Li*. TMLR 2022. [[pdf](https://arxiv.org/pdf/2208.01874.pdf)] [[code](https://github.com/BIRD-TAO/GNTPP)]
