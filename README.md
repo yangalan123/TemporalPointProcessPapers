@@ -30,7 +30,8 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
     * [4.8 Network Structure Discovery](#48-network-structure-discovery)
     * [4.9 Science](#49-science)
     * [4.10 Reinforcement Learning](#410-reinforcement-learning)
-* [5. Research Opportunities](#5-research-opportunities)
+* [5. Benchmark](#5-benchmark)
+* [6. Research Opportunities](#6-research-opportunities)
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
@@ -163,7 +164,10 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes**. *Chao Qu, Xiaoyu Tan, Siqiao Xue, Xiaoming Shi, James Zhang, Hongyuan Mei*. AAAI 2023. [[pdf](https://arxiv.org/pdf/2201.12569.pdf)] [[code](https://github.com/Event-Driven-rl/Event-Driven-RL)]
 
 
-## 5. Research Opportunities
+## 5. Benchmark
+1. **EasyTPP: Towards Open Benchmarking the Temporal Point Processes**. *Siqiao Xue, Xiaoming Shi, Zhixuan Chu, Yan Wang, Fan Zhou, Hongyan Hao, Caigao Jiang, Chen Pan, Yi Xu, James Y. Zhang, Qingsong Wen, Jun Zhou, Hongyuan Mei*. Arxiv 2023. [[pdf](https://arxiv.org/pdf/2307.08097.pdf)] [[code](https://github.com/ant-research/easytemporalpointprocess)]
+
+## 6. Research Opportunities
 Note: Papers listed in this section are loosely related to TPP (e.g., may not contain continuous-time modeling), but we find them insightful and open up new research opportunities. 
 
 1. **Predictive Querying for Autoregressive Neural Sequence Models**. *Alex Boyd, Sam Showalter, Stephan Mandt, Padhraic Smyth*. NeurIPS 2022. [[pdf](https://arxiv.org/pdf/2210.06464.pdf)] [[code](https://github.com/ajboyd2/prob_seq_queries)] <details><summary>Why this is relevant? See here for compilers' comments (<i>click to expand</i>)</summary>
