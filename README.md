@@ -51,6 +51,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### 2.1 Temporal Point Process Modeling
 1. **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning.** *Xiaoming Shi, Siqiao Xue, Kangrui Wang, Fan Zhou, James Y. Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2305.16646.pdf)] [[code](https://github.com/iLampard/lamp)]
+1. **Prompt-augmented Temporal Point Process for Streaming Event Sequence.** *Siqiao Xue, Yan Wang, Zhixuan Chu, Xiaoming Shi, Caigao Jiang, Hongyan Hao, Gangwei Jiang, Xiaoyun Feng, James Y. Zhang, Jun Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.04993.pdf)] [[code](https://github.com/yanyanSann/PromptTPP)]
 1. **Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes**. *Yixuan Zhang, Quyu Kong, Feng Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.05485.pdf)]
 1. **Sparse Transformer Hawkes Process for Long Event Sequences**. *Zhuoqun Li, Mingxuan Sun*. ECML-PKDD 2023. [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11)]
 1. **Intensity-free Convolutional Temporal Point Process: Incorporating Local and Global Event Contexts**. *Wang-Tao Zhou, Zhao Kang, Ling Tian, Yi Su*. Information Sciences 2023.  [[pdf](https://arxiv.org/pdf/2306.14072.pdf)] 
