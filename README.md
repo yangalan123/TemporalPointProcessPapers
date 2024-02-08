@@ -35,7 +35,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 * [Acknowledgements](#acknowledgements)
 
 ## 0. Toolkits
-1. **EasyTPP: Towards Open Benchmarking the Temporal Point Processes**. *Siqiao Xue, Xiaoming Shi, Zhixuan Chu, Yan Wang, Fan Zhou, Hongyan Hao, Caigao Jiang, Chen Pan, Yi Xu, James Y. Zhang, Qingsong Wen, Jun Zhou, Hongyuan Mei*. Arxiv 2023. [[pdf](https://arxiv.org/pdf/2307.08097.pdf)] [[code](https://github.com/ant-research/easytemporalpointprocess)]
+1. **EasyTPP: Towards Open Benchmarking the Temporal Point Processes**. *Siqiao Xue, Xiaoming Shi, Zhixuan Chu, Yan Wang, Fan Zhou, Hongyan Hao, Caigao Jiang, Chen Pan, Yi Xu, James Y. Zhang, Qingsong Wen, Jun Zhou, Hongyuan Mei*. ICLR 2024. [[pdf](https://arxiv.org/pdf/2307.08097.pdf)] [[code](https://github.com/ant-research/easytemporalpointprocess)]
 1. **TPPToolkits: Toolkits for Temporal Point Process**. *Hongyuan Mei, Chenghao Yang*. [[website](https://github.com/yangalan123/TPPToolkits)]
 1. **PoPPy: A Point Process Toolbox Based on PyTorch**. *Hongteng Xu*. arXiv 2018. [[website](https://github.com/HongtengXu/PoPPy)] [[pdf](https://arxiv.org/pdf/1810.10122.pdf)]
 1. **THAP: A Matlab Toolkit for Learning with Hawkes Processes**. *Hongteng Xu, Hongyuan Zha*. arXiv 2017. [[website](https://github.com/HongtengXu/Hawkes-Process-Toolkit)] [[pdf](https://arxiv.org/pdf/1708.09252.pdf)]
