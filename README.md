@@ -92,6 +92,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ## 3. Algorithm Papers
 ### 3.1 Training Algorithm
+1. **SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**. *Zichong Li, Yanbo Xu, Simiao Zuo, Haoming Jiang, Chao Zhang, Tuo Zhao, Hongyuan Zha*. ICML 2023. [[pdf](https://arxiv.org/pdf/2310.16336.pdf)] [[code](https://github.com/zichongli5/SMURF-THP)]
 1. **Noise-Contrastive Estimation for Multivariate Point Processes**. *Hongyuan Mei, Tom Wan, Jason Eisner*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.00717.pdf)] [[code](https://github.com/HMEIatJHU/nce-mpp)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+wan+eisner.neurips20.talk.pdf)]
 1. **Learning Temporal Point Processes via Reinforcement Learning**. *Shuang Li, Shuai Xiao, Shixiang Zhu, Nan Du, Yao Xie, Le Song*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf)]
 1. **INITIATOR: Noise-contrastive Estimation for Marked Temporal Point Process**. *Ruocheng Guo, Jundong Li, and Huan
