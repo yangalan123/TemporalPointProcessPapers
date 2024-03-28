@@ -50,6 +50,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Temporal Point Process Modeling
+1. **A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs.** *Sikun Yang, Hongyuan Zha*. AAAI 2024. [[paper](https://arxiv.org/abs/2312.16083)]
 1. **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning.** *Xiaoming Shi, Siqiao Xue, Kangrui Wang, Fan Zhou, James Y. Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2305.16646.pdf)] [[code](https://github.com/iLampard/lamp)]
 1. **Prompt-augmented Temporal Point Process for Streaming Event Sequence.** *Siqiao Xue, Yan Wang, Zhixuan Chu, Xiaoming Shi, Caigao Jiang, Hongyan Hao, Gangwei Jiang, Xiaoyun Feng, James Y. Zhang, Jun Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.04993.pdf)] [[code](https://github.com/yanyanSann/PromptTPP)]
 1. **Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes**. *Yixuan Zhang, Quyu Kong, Feng Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.05485.pdf)]
