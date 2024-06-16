@@ -84,6 +84,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### 2.2 Structured Temporal Point Process Modeling
 1. **Neuro-Symbolic Temporal Point Processes**. *Yang Yang, Chao Yang, Boyang Li, Yinghao Fu, Shuang Li*. ICML 2024. [[pdf](https://arxiv.org/pdf/2406.03914)]
+1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/pdf/2201.00044.pdf)] [[code](https://github.com/yangalan123/anhp-andtt)] (cross-listed as this paper covers both structured and unstructured TPP modeling. )
 1. **Learning Neural Point Processes with Latent Graphs**. *Qiang Zhang, Aldo Lipani, and Emine Yilmaz*. WWW 2021. [[pdf](https://discovery.ucl.ac.uk/id/eprint/10122006/1/2021_WWW_Learning_Neural_Point_Processes_with_Latent_Graphs.pdf)]
 1. **User-Dependent Neural Sequence Models for Continuous-Time Event Data**. *Alex Boyd, Robert Bamler, Stephan Mandt, Padhraic Smyth*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.03231.pdf)] [[code](https://github.com/ajboyd2/vae_mpp)]
 1. **Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification**. *Hongyuan Mei, Guanghui Qin, Minjie Xu, Jason Eisner*. ICML 2020. [[pdf](https://arxiv.org/pdf/2006.16723.pdf)] [[code](https://github.com/HMEIatJHU/neural-datalog-through-time)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.talk.pdf)]
