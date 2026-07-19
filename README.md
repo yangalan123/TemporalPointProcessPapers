@@ -85,6 +85,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Learning Triggering Kernels for Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, and Le Song*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/zhou13.pdf)]
 
 ### 2.2 Structured Temporal Point Process Modeling
+1. **A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**. *Qingmei Wang, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu*. AAAI 2025. [[pdf](https://doi.org/10.1609/aaai.v39i20.35420)] [[code](https://github.com/qingmeiwangdaily/BADMM_TPP)]
 1. **Fine-grained Spatio-temporal Event Prediction with Self-adaptive Anchor Graph**. *Wang-Tao Zhou, Zhao Kang, Sicong Liu, Lizong Zhang, and Ling Tian*. SDM 2025. [[pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.60)]
 1. **Neuro-Symbolic Temporal Point Processes**. *Yang Yang, Chao Yang, Boyang Li, Yinghao Fu, Shuang Li*. ICML 2024. [[pdf](https://arxiv.org/pdf/2406.03914)]
 1. **A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs.** *Sikun Yang, Hongyuan Zha*. AAAI 2024. [[paper](https://arxiv.org/abs/2312.16083)]
@@ -100,6 +101,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 ## 3. Algorithm Papers
 ### 3.1 Training Algorithm
 1. **Learning Multivariate Temporal Point Processes via the Time-Change Theorem**. *Guilherme Augusto Zagatti, See Kiong Ng, Stéphane Bressan*. AISTATS 2024. [[pdf](https://proceedings.mlr.press/v238/augusto-zagatti24a/augusto-zagatti24a.pdf)] [[code](https://github.com/NUS-IDS/multi-ttpp)]
+2. **Hierarchical Contrastive Learning for Temporal Point Processes**. *Qingmei Wang, Minjie Cheng, Shen Yuan, Hongteng Xu*. AAAI 2023. [[pdf](https://doi.org/10.1609/aaai.v37i8.26211)] [[code](https://github.com/qingmeiwangdaily/HCL_TPP)]
 1. **SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**. *Zichong Li, Yanbo Xu, Simiao Zuo, Haoming Jiang, Chao Zhang, Tuo Zhao, Hongyuan Zha*. ICML 2023. [[pdf](https://arxiv.org/pdf/2310.16336.pdf)] [[code](https://github.com/zichongli5/SMURF-THP)]
 1. **Noise-Contrastive Estimation for Multivariate Point Processes**. *Hongyuan Mei, Tom Wan, Jason Eisner*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.00717.pdf)] [[code](https://github.com/HMEIatJHU/nce-mpp)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+wan+eisner.neurips20.talk.pdf)]
 1. **Learning Temporal Point Processes via Reinforcement Learning**. *Shuang Li, Shuai Xiao, Shixiang Zhu, Nan Du, Yao Xie, Le Song*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf)]
@@ -115,6 +117,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 1. **Sequential Adversarial Anomaly Detection for One-Class Event Data**. *Shixiang Zhu, Henry Shaowu Yuchi, Yao Xie*. ICASSP 2020. [[pdf](https://arxiv.org/pdf/1910.09161.pdf)]
 
 ### 3.4 Clustering
+1. **ST-TPP: Learning Semi-Transductive Temporal Point Processes with Gromov-Wasserstein Barycentric Regularization**. *Qingmei Wang, Tianyu Huang, Yujie Long, Yuxin Wu, Junchi Yan, Hongteng Xu*. AAAI 2026. [[pdf](https://doi.org/10.1609/aaai.v40i31.39850)]
 1. **C-NTPP: Learning Cluster-Aware Neural Temporal Point Process**. *Fangyu Ding, Junchi Yan, Haiyang Wang*. AAAI 2023. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25897/25669)]
 1. **Learning Mixture of Neural Temporal Point Processes for Multi-dimensional Event Sequence Clustering**. *Yunhao Zhang, Junchi Yan, Xiaolu Zhang, Jun Zhou, Xiaokang Yang*. IJCAI 2022. [[pdf](https://www.ijcai.org/proceedings/2022/0523.pdf)]
 1. **A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering**. *Hongteng Xu, Hongyuan Zha*. NeurIPS 2017. [[pdf](https://arxiv.org/pdf/1701.09177)] [[code](https://github.com/HongtengXu/Hawkes-Process-Toolkit)]
